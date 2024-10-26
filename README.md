@@ -11,4 +11,4 @@ one must be careful to verify that the other member is executing the handshake c
 - optional - `stones` can be used to increase the power of the new member
 
 # stones
-there are 600 billion stones created by @chiefmonkey in 2023, they have a special meaning and are only owned by the cultleaders. only a handful few are iner is exeber joins the cult. The stones are and enhancement to an indoctrination process, the more stones, the more powerful the new member will be.
+there are 600 billion stones created by @chiefmonkey in 2023, they have a special meaning and are only owned by the cultleaders. only a handful few are in existence. The stones are and enhancement to an indoctrination process, the more stones, the more powerful the new member will be.
